@@ -41,7 +41,3 @@ Steps:
 7. Dealing with Incorrect Registration Year Data
 8. Exploring Price by Brand
 9. Storing Aggregate Data in a DataFrame
-
-
-
-# Exploring-eBay-Car-Listings-on-eBay-Kleinanzeigen
